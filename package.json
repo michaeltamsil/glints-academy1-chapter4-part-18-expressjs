@@ -1,0 +1,20 @@
+{
+  "name": "chapter4-part-18-expressjs",
+  "version": "0.1.0",
+  "description": "learn expressjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaeltamsil/glints-academy1-chapter4-part-18-expressjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaeltamsil/glints-academy1-chapter4-part-18-expressjs/issues"
+  },
+  "homepage": "https://github.com/michaeltamsil/glints-academy1-chapter4-part-18-expressjs#readme"
+}
